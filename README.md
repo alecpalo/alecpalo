@@ -39,8 +39,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecpalo)](https://github.com/anuraghazra/github-readme-stats)
-## 🌐 Connect with me:
-
 - LinkedIn: [linkedIn.com/dev-kunjadia](https://www.linkedin.com/in/dev-kunjadia/)
