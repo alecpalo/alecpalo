@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
 </p>
 
 ## 📊 GitHub Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devk03&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alecpalo&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me:
 
-- LinkedIn: [linkedIn.com/dev-kunjadia](https://www.linkedin.com/in/dev-kunjadia/)
+- LinkedIn: [linkedIn.com/apalo](https://www.linkedin.com/in/apalo/)
