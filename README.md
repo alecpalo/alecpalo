@@ -1,6 +1,5 @@
-# Hi there, I'm Dev! 👋
+# Hey, I'm Alec! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in a range of programming languages, frameworks, and databases. My focus is on building efficient and scalable systems, and I love using technology to solve real-world problems.
 
 ## 💻 Tech Stack:
 
@@ -40,9 +39,8 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in a ran
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-## 📊 GitHub Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alecpalo&show_icons=true&theme=radical)
-
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecpalo)](https://github.com/anuraghazra/github-readme-stats)
 ## 🌐 Connect with me:
 
-- LinkedIn: [linkedIn.com/apalo](https://www.linkedin.com/in/apalo/)
+- LinkedIn: [linkedIn.com/dev-kunjadia](https://www.linkedin.com/in/dev-kunjadia/)
