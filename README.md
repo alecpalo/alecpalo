@@ -1,6 +1,5 @@
 # Hey, I'm Alec! 👋
 
-[![Linkedin: apalo](https://img.shields.io/badge/-apalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apalo/)](https://www.linkedin.com/in/apalo/)
 
 
 ```javascript
@@ -19,3 +18,6 @@ class alec = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+
+[![Linkedin: apalo](https://img.shields.io/badge/-apalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apalo/)](https://www.linkedin.com/in/apalo/)
