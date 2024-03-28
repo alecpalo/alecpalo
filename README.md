@@ -1,6 +1,4 @@
-<h2> Hey! I'm Alec 🫡 </h2>
-
-### A little bit about me!
+<h1> Hey! I'm Alec 🫡 </h1>
 
 ```javascript
 class alec = {
