@@ -24,7 +24,9 @@ class alec = {
 ```
 
 <p>
+    <em>
     I always love connecting with people and learning new things, feel free to reach out!
+    </em>
 <p>
 
 [![Linkedin: apalo](https://img.shields.io/badge/-apalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apalo/)](https://www.linkedin.com/in/apalo/)
