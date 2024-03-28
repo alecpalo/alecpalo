@@ -4,7 +4,7 @@
 class alec = {
     pronouns: "He" | "Him",
     code: ["C++", "Go", "TypeScript", "Python", "Lua", "Rust"],
-    askMeAbout: ["web dev", "tech", "Ukraine", "Hiking", "cats"],
+    askMeAbout: ["Ukraine", "Hiking", "Cats", "Tech"],
     interests: ["embedded systems", "low level programming", "building stuff"]
     technologies: {
         Frameworks: ["Next.js", "React"],
