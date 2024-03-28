@@ -6,7 +6,8 @@
 class alec = {
     pronouns: "He" | "Him",
     code: ["C++", "Go", "TypeScript", "Python", "Lua", "Rust"],
-    askMeAbout: ["web dev", "tech", "", "Hiking"],
+    askMeAbout: ["web dev", "tech", "Ukraine", "Hiking"],
+    interests: ["embedded systems", "low level programming", "building stuff"]
     technologies: {
         Frameworks: ["Next.js", "React"],
         mobileApp: ["Flutter"],
@@ -14,8 +15,14 @@ class alec = {
         databases: ["MySql", "sqlite"],
     },
     currentFocus: "I am currently focused on getting a full time position as a software developer",
-    challenge: "I am trying to learn functional programming for fun 🙃",
     funFact: "There are two ways to write error-free programs; only the third one works"
+    goals: [
+        "learn functional programming",
+        "become fluent in Ukrainian",
+        "run a marathon",
+        "publish an app",
+    ]
+}
 };
 ```
 
