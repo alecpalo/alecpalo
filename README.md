@@ -1,7 +1,7 @@
 # Hey, I'm Alec! 👋
 
-[![Linkedin: apalo](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apalo/)](https://www.linkedin.com/in/apalo/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: apalo](https://img.shields.io/badge/-apalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apalo/)](https://www.linkedin.com/in/apalo/)
+[![GitHub alecpalo](https://img.shields.io/github/followers/alecpalo?label=follow&style=social)](https://github.com/alecpalo)
 
 
 ```javascript
@@ -20,4 +20,3 @@ class alec = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-- LinkedIn: [linkedIn.com/apalo](https://www.linkedin.com/in/apalo/)
