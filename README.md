@@ -6,12 +6,6 @@ class alec = {
     code: ["C++", "Go", "TypeScript", "Python", "Lua", "Rust"],
     askMeAbout: ["Ukraine", "Hiking", "Cats", "Tech"],
     interests: ["embedded systems", "low level programming", "building stuff"],
-    technologies: {
-        Frameworks: ["Next.js", "React"],
-        mobileApp: ["Flutter"],
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["MySql", "sqlite"],
-    },
     currentFocus: "I am currently focused on getting a full time position as a software developer",
     funFact: "Everyday I learn how much I have left to learn",
     goals: [
