@@ -1,7 +1,6 @@
 # Hey, I'm Alec! 👋
 
 [![Linkedin: apalo](https://img.shields.io/badge/-apalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apalo/)](https://www.linkedin.com/in/apalo/)
-[![GitHub alecpalo](https://img.shields.io/github/followers/alecpalo?label=follow&style=social)](https://github.com/alecpalo)
 
 
 ```javascript
