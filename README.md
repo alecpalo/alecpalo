@@ -1,7 +1,7 @@
 <h1> Hey! I'm Alec 🫡 </h1>
 
 ```javascript
-class alec = {
+const alec = {
     pronouns: "He" | "Him",
     code: ["C++", "Go", "TypeScript", "Python", "Lua", "Rust"],
     askMeAbout: ["Ukraine", "Hiking", "Cats", "Tech"],
