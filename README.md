@@ -7,7 +7,7 @@ const alec = {
     askMeAbout: ["Ukraine", "Hiking", "Cats", "Tech"],
     interests: ["embedded systems", "low level programming", "building stuff"],
     currentFocus: "I am currently focused on getting a full time position as a software developer",
-    funFact: "Everyday I learn how much I have left to learn",
+    funFact: "Ocaml is a strange language :)",
     goals: [
         "learn functional programming",
         "become fluent in Ukrainian",
