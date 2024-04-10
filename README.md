@@ -4,7 +4,7 @@
 const alec = {
     pronouns: "He" | "Him",
     code: ["C++", "Go", "TypeScript", "Python", "Lua", "Rust"],
-    askMeAbout: ["Ukraine", "Hiking", "Cats", "Tech"],
+    askMeAbout: ["Ukraine", "Hiking", "Cats", "Tech", "My Goals"],
     interests: ["embedded systems", "low level programming", "building stuff"],
     currentFocus: "I am currently focused on getting a full time position as a software developer",
     funFact: "Ocaml is a strange language :)",
@@ -13,6 +13,7 @@ const alec = {
         "become fluent in Ukrainian",
         "run a marathon",
         "publish an app",
+        "automate something with a rasberry pi",
     ]
 };
 ```
