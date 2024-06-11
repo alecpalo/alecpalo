@@ -1,4 +1,4 @@
-<h1> Hey! I'm Alec 🫡 </h1>
+<h1> Hey! I'm Alec </h1>
 
 ```javascript
 const alec = {
