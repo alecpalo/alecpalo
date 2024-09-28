@@ -10,9 +10,8 @@ const alec = {
     funFact: "Ocaml is a strange language :)",
     goals: [
         "learn functional programming",
-        "become fluent in Ukrainian",
+        "keep learning Ukrainian",
         "run a marathon",
-        "publish an app",
         "automate something with a rasberry pi",
     ]
 };
